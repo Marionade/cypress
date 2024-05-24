@@ -1,0 +1,17 @@
+{
+    "login": {
+      "email": "marion@gmail.com",
+      "password": "marion24"
+    },
+    "validNote": {
+      "title": "voilà",
+      "description": "une note",
+      "category": "Work"
+    },
+    "noteMissingTitle": {
+      "description": "une note",
+      "category": "Work"
+    },
+    "invalidToken": "invalidtoken123"
+  }
+  
